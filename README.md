@@ -13,8 +13,7 @@ Este proyecto es un motor gráfico básico en JavaScript que utiliza raycasting 
 ## Instalación
 
 1. Clona el repositorio.
-2. Coloca la imagen de texturas en `assets/walls.png`.
-3. Abre `index.html` en tu navegador.
+2. Abre `index.html` en tu navegador.
 
 ## Controles
 
