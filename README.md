@@ -10,10 +10,17 @@ Este proyecto es un motor gráfico básico en JavaScript que utiliza raycasting 
 - Mapa personalizable mediante matrices.
 - Visualización en un canvas HTML.
 
-## Instalación
+## Ejecutar el proyecto
 
-1. Clona el repositorio.
-2. Abre `index.html` en tu navegador.
+Opcion 1: Localmente
+
+  1. Clona el repositorio.
+  2. Abre `index.html` en tu navegador.
+
+
+Opcion 2: Ejecutar github pages
+
+  1. Visita [https://xardax88.github.io/raycasting-js/](https://xardax88.github.io/raycasting-js/).
 
 ## Controles
 
