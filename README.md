@@ -20,7 +20,7 @@ Opcion 1: Localmente
 
 Opcion 2: Ejecutar github pages
 
-  1. Visita [https://xardax88.github.io/raycasting-js/](https://xardax88.github.io/raycasting-js/).
+  1. Visita [https://xardax88.github.io/WolfensteinJs/](https://xardax88.github.io/WolfensteinJs/)
 
 ## Controles
 
